@@ -1,8 +1,12 @@
 # profile
 
 - 👋 Hi, I’m Mihir Sriram Aranala. @mihirxaranala
-- I am an intern at AECOM, Phoenix Office. I assist the Transit and Rail Group with their projects.
-- 👀 I’m interested in Housing, Transport (Rail and Transit), Smart Cities and Urban Informality.
+- I hold a Bachelor's degree in Architecture from Manipal Academy of Higher Education, India.
+- Spent a semester in Umea, Sweden learning about urban design and housing, amongst various other things.
+- I graduate from Arizona State University with a Masters' degree in Urban and Environmental Planning in May 2023.
+- I currently intern at AECOM's Phoenix Office and I will be starting as a transportation planner upon graduation.
+- I assist in transit, microtransit, BRT, and bike planning through data, spatial analysis and report writing.
+- 👀 I’m interested in the intersection of Transport (Rail and Transit) and Urban data.
 - 🌱 I’m currently learning ArcMap, Survey123 and python.
 - 📫 Email me at sriram.mihir@gmail.com or maranala@asu.edu
 
